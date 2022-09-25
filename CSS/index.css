@@ -1,0 +1,108 @@
+body{
+    margin:0;
+    text-align:center;
+    font-family:'Raleway';
+}
+.top-container{
+    position:relative;
+    background-color:#eaf6f6;
+    
+}
+.cloud1{
+    position:relative;
+    top:100px;
+    left:300px;
+}
+.cloud2{
+    position:absolute;
+    top:200px;
+    left:100px;
+}
+h1{
+    font-family:'Sacramento',cursive;
+    font-size:5.625em;
+    color:#66bfbf;
+}
+h2{
+    font-family:'Montserrat',san-serif;
+    line-height:0;
+    font-size:1em;
+    color:#66bfbf;
+}
+h3{
+    color:#11999e;
+}
+p{
+    color:#40514e;
+}
+hr{
+    background:transparent;
+    width:25%;
+    border:none;
+    border-top:15px dotted #d3d3d3;
+}
+.profile {
+    width:60%;
+    margin:100px auto 100px auto;
+    font-size:30px;
+}
+.skill h2{
+    margin-top:50px;
+    line-height:1;
+}
+.skill-row{
+    width:50%;
+    margin:150px auto 150px auto;
+    text-align:left;
+}
+.computer-img{
+    width:25%;
+    border-radius: 50%;
+    float:left;
+    margin:0 10px 20px 0;
+}
+.chillies-img{
+    width:25%;
+    border-radius:50%;
+    float:right;
+    margin-left:10px;
+}
+.contact{
+    width:50%;
+    margin:75px auto 100px auto;
+}
+.contact h2{
+    font-size:35px;
+    line-height:1;
+}
+.contact-btn{
+    display:inline-block;
+    padding:10px 5px;
+    color:#fff;
+    text-decoration:none;
+    background-color:#11999e;
+    border-radius:10px;
+}
+.contact-btn:hover{
+    background:#22889d;
+}
+
+.bottom-container{
+    position:relative;
+    background-color:#66bfbf;
+    padding:30px;
+}
+.bottom-container a{
+    text-decoration:none;
+    color:#11999e;
+    margin:10px 20px 10px 20px;
+}
+.bottom-container a:hover{
+    color:#22888d;
+    text-decoration: underline;
+}
+h4{
+    width:50%;
+    color:#eaf6f6;
+    margin:30px auto 30px auto;
+}
